@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\гкс\1905\task42\main.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\гкс\1905\task42\main.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "WinMainCRTStartup"
+  task42.vcxproj -> D:\ГКС\1905\Debug\task42.exe
